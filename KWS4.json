@@ -172,40 +172,12 @@
  "tileheight":32,
  "tilesets":[
         {
-         "columns":64,
          "firstgid":1,
-         "image":"..\/AllesIstMoeglich\/Unbenannt.png",
-         "imageheight":1442,
-         "imagewidth":2048,
-         "margin":0,
-         "name":"Unbenannt",
-         "spacing":0,
-         "tilecount":2880,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"Unbenannt.tsx"
         }, 
         {
-         "columns":8,
          "firstgid":2881,
-         "image":"..\/AllesIstMoeglich\/floortileset3.png",
-         "imageheight":272,
-         "imagewidth":272,
-         "margin":1,
-         "name":"floortileset3",
-         "spacing":2,
-         "tilecount":64,
-         "tileheight":32,
-         "tiles":[
-                {
-                 "id":7,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }],
-         "tilewidth":32
+         "source":"floortileset_angepasst.tsx"
         }, 
         {
          "firstgid":2945,
@@ -224,18 +196,8 @@
          "source":"kitchen.tsx"
         }, 
         {
-         "columns":50,
          "firstgid":5997,
-         "image":"HMU-Tiles.png",
-         "imageheight":1600,
-         "imagewidth":1600,
-         "margin":0,
-         "name":"HMU-Tiles",
-         "spacing":0,
-         "tilecount":2500,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ffffff"
+         "source":"HMU-Tiles.tsx"
         }],
  "tilewidth":32,
  "type":"map",
