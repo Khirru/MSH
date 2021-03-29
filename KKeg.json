@@ -115,7 +115,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/horsthuepfer.github.io\/PDFs\/KWSweg.pdf"
+                 "value":"https:\/\/horsthuepfer.github.io\/PDFs\/KWS74.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -360,7 +360,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"2021.02.15",
  "tileheight":32,
  "tilesets":[
         {
@@ -1668,6 +1668,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.5,
  "width":54
 }
