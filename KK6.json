@@ -2248,19 +2248,6 @@
          "tilecount":1369,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":10,
-         "firstgid":8817,
-         "image":"Etagennummern.png",
-         "imageheight":320,
-         "imagewidth":320,
-         "margin":0,
-         "name":"Etagennummern",
-         "spacing":0,
-         "tilecount":100,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",

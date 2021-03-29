@@ -669,17 +669,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/horsthuepfer.github.io\/PDFs\/FSKK2N.pdf"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":""
-                }, 
-                {
-                 "name":"openWebsiteTriggerMessage",
-                 "type":"string",
-                 "value":""
+                 "value":"https:\/\/horsthuepfer.github.io\/PDFs\/Aufzug_Panel_Nord.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -697,17 +687,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/horsthuepfer.github.io\/PDFs\/FSKK2S.pdf"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":""
-                }, 
-                {
-                 "name":"openWebsiteTriggerMessage",
-                 "type":"string",
-                 "value":""
+                 "value":"https:\/\/horsthuepfer.github.io\/PDFs\/Aufzug_Panel_Sued.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
