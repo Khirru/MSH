@@ -95,7 +95,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/funhtml5games.com?embed=doodlejump"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -105,7 +105,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":""
+                 "value":"Dr\u00fccke die Leertaste um auf Toilette zu gehen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -123,7 +123,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/wwwtyro.github.io\/Astray\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -133,7 +133,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":""
+                 "value":"Dr\u00fccke die Leertaste um auf Toilette zu gehen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -306,7 +306,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":""
+                 "value":"Um am Meeting teilzunehmen, dr\u00fccken Sie die Leertaste."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -431,7 +431,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"2021.02.15",
  "tileheight":32,
  "tilesets":[
         {
@@ -776,6 +776,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.5,
  "width":46
 }
