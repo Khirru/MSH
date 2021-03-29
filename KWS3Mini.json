@@ -417,7 +417,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/horsthuepfer.github.io\/PDFs\/Aufzug_Panel_KWS76.pdf"
+                 "value":"https:\/\/horsthuepfer.github.io\/PDFs\/Aufzug_Panel_KWS.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -435,7 +435,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/horsthuepfer.github.io\/PDFs\/KWS_kennenlernen.pdf"
+                 "value":"https:\/\/horsthuepfer.github.io\/PDFs\/KWS_kennenlernen_3.pdf"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
