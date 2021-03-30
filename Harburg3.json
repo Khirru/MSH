@@ -72,7 +72,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/Schellerdamm3OG#start_ziel"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/schellerdamm3og#start_ziel"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -108,7 +108,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/Schellerdamm3OG#start_2M"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/schellerdamm3og#start_2M"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -126,7 +126,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/Schellerdamm3OG#start_2L"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/schellerdamm3og#start_2L"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -476,7 +476,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/Schellerdamm3OG#start_ziel"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/schellerdamm3og#start_ziel"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -494,7 +494,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/Schellerdamm3OG#start2"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/schellerdamm3og#start2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -512,7 +512,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/Schellerdamm3OG#start3"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/schellerdamm3og#start3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -530,7 +530,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/Schellerdamm3OG#start4"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/schellerdamm3og#start4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -548,7 +548,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/Schellerdamm3OG#start_notausgang"
+                 "value":"https:\/\/play.workadventu.re\/@\/hochschulverbund\/medicalschool\/schellerdamm3og#start_notausgang"
                 }],
          "type":"tilelayer",
          "visible":true,
