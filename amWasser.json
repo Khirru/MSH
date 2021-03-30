@@ -105,6 +105,18 @@
          "y":0
         }, 
         {
+         "data":[0, 0, 0, 0, 0, 0, 618, 619, 620, 621, 610, 611, 612, 613, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 622, 623, 624, 625, 614, 615, 616, 617, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":8,
+         "id":8,
+         "name":"ueberallem",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }, 
+        {
          "draworder":"topdown",
          "id":7,
          "name":"floorLayer",
@@ -115,7 +127,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":8,
+ "nextlayerid":9,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -168,6 +180,32 @@
          "name":"office_1",
          "spacing":0,
          "tilecount":289,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":4,
+         "firstgid":610,
+         "image":"Pfeil_Kaiserkai.png",
+         "imageheight":64,
+         "imagewidth":128,
+         "margin":0,
+         "name":"Pfeil_Kaiserkai",
+         "spacing":0,
+         "tilecount":8,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":4,
+         "firstgid":618,
+         "image":"Pfeil_Kehrwiederspitze.png",
+         "imageheight":64,
+         "imagewidth":128,
+         "margin":0,
+         "name":"Pfeil_Kehrwiederspitze",
+         "spacing":0,
+         "tilecount":8,
          "tileheight":32,
          "tilewidth":32
         }],
