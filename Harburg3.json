@@ -237,16 +237,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/horsthuepfer.github.io\/PDFs\/MSH_SA_Hoersaal.pdf"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"openWebsiteTriggerMessage",
-                 "type":"string",
-                 "value":"Dr\u00fccken Sie die Leertaste, um den Link zur Begr\u00fc\u00dfung zu erhalten."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -265,16 +255,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/horsthuepfer.github.io\/PDFs\/MSH_SA_Atelier.pdf"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"openWebsiteTriggerMessage",
-                 "type":"string",
-                 "value":"Dr\u00fccken Sie die Leertaste, um den Link zur virtuellen Begr\u00fc\u00dfung zu erhalten."
                 }],
          "type":"tilelayer",
          "visible":true,
