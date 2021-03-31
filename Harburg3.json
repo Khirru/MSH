@@ -123,7 +123,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"UCFq2k4377HvwuYR60Hc2YAw"
+                 "value":"https:\/\/www.youtube.com\/embed\/live_stream?channel=UCFq2k4377HvwuYR60Hc2YAw"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -1565,6 +1565,24 @@
                 }, 
                 {
                  "id":26,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":74,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":90,
                  "properties":[
                         {
                          "name":"collides",
