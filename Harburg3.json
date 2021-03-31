@@ -811,7 +811,7 @@
  "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"2021.02.15",
  "tileheight":32,
  "tilesets":[
         {
@@ -1116,6 +1116,25 @@
          "spacing":0,
          "tilecount":2500,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":759,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":760,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -2216,6 +2235,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.5,
  "width":156
 }
