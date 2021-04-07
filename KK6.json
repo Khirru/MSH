@@ -186,7 +186,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/horsthuepfer.github.io\/PDFs\/BegruessungBSPHH.pdf"
+                 "value":"https:\/\/horsthuepfer.github.io\/PDFs\/MP_6OG.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -232,7 +232,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/horsthuepfer.github.io\/PDFs\/whiteboard_kennenlernen.pdf"
+                 "value":"https:\/\/horsthuepfer.github.io\/PDFs\/KennenlernenImKurs.pdf"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
