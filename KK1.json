@@ -207,7 +207,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/live_stream?channel=UCFq2k4377HvwuYR60Hc2YAw"
+                 "value":"https://www.youtube.com/embed/DHUgTgWVnDk"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -486,7 +486,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/horsthuepfer.github.io\/PDFs\/whiteboard_kennenlernen.pdf"
+                 "value":"https:\/\/horsthuepfer.github.io\/PDFs\/KennenlernenImKurs.pdf"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
